@@ -96,7 +96,9 @@ class Bot():
         
 
 def main():
-    myBot = Bot()
+    while True: #Restart app one hour after it finishes
+        myBot = Bot()
+        sleep(60*60) #one hour
 
 if __name__ == '__main__':
     main()
