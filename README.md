@@ -4,6 +4,6 @@ HOW TO RUN THIS APP:
     
     Open the repo you just cloned in your text-editor.
     
-    Open the 'Login_and_Like.py' file
+    Open the 'INSTA_like&comment.py' file
 
     In 'Run' tab at the top, click 'Run without Debugging'
