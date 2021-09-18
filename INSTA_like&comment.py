@@ -5,11 +5,6 @@ from selenium.webdriver.common.keys import Keys
 from time import sleep
 from secretpw import pw   #import password from other file
 from random import randint
-# from selenium.webdriver.chrome.webdriver import WebDriver
-# from selenium.webdriver.common.by import By
-# from selenium.webdriver.support.ui import WebDriverWait
-# from selenium.webdriver.support import expected_conditions as EC
-# from selenium.common.exceptions import TimeoutException
 
 # Create a class, we're creating an Instagram 'bot'
 class Bot():
